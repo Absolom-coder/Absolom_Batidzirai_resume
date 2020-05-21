@@ -1,0 +1,30 @@
+body {
+background-color: lightgrey;
+font-family: verdana;
+font-size: 15px;
+}
+
+header {
+ color: navy;
+  background-color: grey;
+  text-align: center;
+  padding: 40px;
+  font-size: 40px;
+}
+
+h1 {
+color: navy;
+center: 20px;
+}
+
+h2 {
+  color: navy;
+  margin-left: center;
+  }
+
+img {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  z-index: 2;
+}
